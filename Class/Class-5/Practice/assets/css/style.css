@@ -95,19 +95,20 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-
   background: var(--secandary);
+  padding-top: 85px;
 }
 .hero .hero-wrapper {
   display: flex;
   align-items: center;
-  gap: 6.125em;
 }
 .hero .hero-wrapper .hero-left-image {
   width: 700px;
+  margin-right: 80px;
 }
 .hero .hero-wrapper .hero-left-image img {
   width: 100%;
+  border-radius: 10px;
 }
 .hero .hero-wrapper .hero-right-content {
 }
