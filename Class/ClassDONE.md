@@ -33,5 +33,6 @@ Theme submission to ThemeForest
 - [ ] Class 2
 - [ ] Class 3
 - [x] Class 4 -> FlexBox
+- [x] Class 5 -> html / css -> Projects
 
 ---
