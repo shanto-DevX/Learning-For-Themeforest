@@ -80,20 +80,10 @@ body {
 }
 
 .text-top {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 15px;
-
   border: 1px solid var(--ThemePrimary);
-  width: 45%;
+  width: 40%;
   padding: 10px 15px;
   border-radius: 50px;
-}
-.text-top i .faIcon {
-  font-size: 14px;
-  line-height: 14px;
-  margin-top: -8px;
 }
 .text-top h3 {
   font-size: 18px;
